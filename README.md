@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Leo唐
 - 👀 I’m interested in ... Learning
-- 🌱 I’m currently learning ... C++ ASP
+- 🌱 I’m currently learning ... C# Unity ASP
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... dlzhangchenrui@qq.com
 
